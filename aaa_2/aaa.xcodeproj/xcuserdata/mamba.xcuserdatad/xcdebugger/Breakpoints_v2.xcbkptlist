@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/converttable.swift"
+            timestampString = "490090488.13865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/converttable.swift"
+            timestampString = "490090488.13865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/converttable.swift"
+            timestampString = "490090488.13865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/converttable.swift"
+            timestampString = "490090488.13865"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberViewController.swift"
+            timestampString = "490164601.925752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "contactPicker(_:didSelectContact:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberTableViewCell.swift"
+            timestampString = "490092049.100317"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "PhoneNumberTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.Name.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092071.346968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; aaa.PhoneNumberTableViewCell"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092071.347414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;aaa.PhoneNumberTableViewCell&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092071.347783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberTableViewCell.swift"
+            timestampString = "490092053.894187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PhoneNumberTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.Number.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092071.354206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; aaa.PhoneNumberTableViewCell"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092071.354989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;aaa.PhoneNumberTableViewCell&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092071.355319"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoneNumberTableViewController.swift"
+            timestampString = "490092059.113267"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "PhoneNumberTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.phoneNumbers.getter : Swift.Array&lt;aaa.PhoneNumber&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092071.359999"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.phoneNumbers.setter : Swift.Array&lt;aaa.PhoneNumber&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092071.361454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; aaa.PhoneNumberTableViewController"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092071.362789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;aaa.PhoneNumberTableViewController&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092071.363236"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoneNumberTableViewController.swift"
+            timestampString = "490092062.217304"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoneNumberTableViewController.swift"
+            timestampString = "490092106.220888"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PhoneNumberTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.phoneNumbers.getter : Swift.Array&lt;aaa.PhoneNumber&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092106.225737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.phoneNumbers.setter : Swift.Array&lt;aaa.PhoneNumber&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092106.226233"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.init (style : __C.UITableViewStyle) -&gt; aaa.PhoneNumberTableViewController"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092106.22707"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; aaa.PhoneNumberTableViewController"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092106.227832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;aaa.PhoneNumberTableViewController&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/PhoneNumberTableViewController.swift"
+                  timestampString = "490092106.228548"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberTableViewCell.swift"
+            timestampString = "490092112.16372"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PhoneNumberTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.Number.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092112.172783"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.Number.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092112.17326"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; aaa.PhoneNumberTableViewCell"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092112.173625"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.PhoneNumberTableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;aaa.PhoneNumberTableViewCell&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/PhoneNumberTableViewCell.swift"
+                  timestampString = "490092112.173966"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberViewController.swift"
+            timestampString = "490164601.925752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "showContactsList()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/converttable.swift"
+            timestampString = "490092156.811133"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "converttale"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.converttale.phoneNumberss.getter : Swift.Array&lt;aaa.PhoneNumber&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/converttable.swift"
+                  timestampString = "490092156.848001"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.converttale.phoneNumberss.setter : Swift.Array&lt;aaa.PhoneNumber&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/converttable.swift"
+                  timestampString = "490092156.848252"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.converttale.init (style : __C.UITableViewStyle) -&gt; aaa.converttale"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/converttable.swift"
+                  timestampString = "490092156.848414"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.converttale.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; aaa.converttale"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/converttable.swift"
+                  timestampString = "490092156.848586"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.converttale.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;aaa.converttale&gt;"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mamba/Desktop/aaa_2/aaa/converttable.swift"
+                  timestampString = "490092156.848737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberViewController.swift"
+            timestampString = "490164601.925752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "contactPicker(_:didSelectContact:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/PhoneNumberViewController.swift"
+            timestampString = "490164601.925752"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "tt2(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
